@@ -34,7 +34,8 @@
         <com.stackhour.lib.scratchcard.ScratchCardView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:scratchTouchWidth="25dp" />
+            app:scratchTouchWidth="25dp"
+            app:scratchColor="@color/colorYellow"/>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
