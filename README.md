@@ -6,7 +6,8 @@
 
 A lightweight Android scratch card view. 
 
-![android scratch card view](./screenshots/scratch_card_gif.gif)
+
+<img src="./screenshots/scratch_card_gif.gif" width="360" height="640" alt="android scratch card view" />
 
 </p>
 
